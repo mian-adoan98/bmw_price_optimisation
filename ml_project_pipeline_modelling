@@ -1,0 +1,48 @@
+## ML Project - Pipeline Modelling
+
+Dataset: bmw_pricing_challenge.csv
+
+## Project Details
+
+aim: optimising car prices
+target variable: price
+predictors: unknown, analysis necessarY
+ML Learning Process:
+
+## Business Domain Knowledge
+
+Business problem
+Questions
+
+- How does the price distribution look like in 2018-2019
+- How would the sales prices look like during 5 or 10 months
+- Which car models are highly recommended with the highest sales?
+- What are the main factors that influence the sales prices?
+
+Hypothesis
+
+- Factors like fuel types, engine power, mileage are the factors influencing the sales prices
+-
+
+1. Data Preprocessing
+2. Exploratory Data Analysis
+3. Feature Engineering
+4. Linear Regression
+
+** Be more specific with these steps
+** Study the dataset thoroughly
+
+## 1. Data Preprocessing
+
+- Remove feature "maker_key" and feature_1 until feature_8
+- Filter + focus on 4 main bmw models: coupe, tourer, X, M
+
+## 2. Exploratory Data Analysis
+
+- Explore price distribution for registration period and sales period
+- Explore main factors that affects the price data
+
+## 3. Feature Engineering
+
+- continue to finish calculating fuel consumption
+- convert from mpg to kml

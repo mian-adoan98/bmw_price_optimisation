@@ -1,0 +1,17 @@
+## ML Project - Planning
+
+Kaggle Link: https://www.kaggle.com/datasets/danielkyrka/bmw-pricing-challenge
+
+## Day 1: 05-04-2024
+
+- Linear Regression
+- Feature Engineering
+- Start working on ML Project
+
+## Day 2: 06-04-2024
+
+- continue to finish calculating fuel consumption (check)
+- convert from mpg to kml (check)
+- create a corelation analysis to find main features affecting the price sales
+
+1 mpg = 1 mile/gallon = 1 (1.6000 km / 2.35 l)

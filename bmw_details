@@ -1,0 +1,36 @@
+## BMW Details
+
+# Fuel Consumptions:
+
+Diesel Engines:
+
+City driving: 20-30 miles per gallon (MPG)
+Highway driving: 30-45 MPG
+Combined: 25-35 MPG
+Petrol (Gasoline) Engines:
+
+City driving: 15-25 MPG
+Highway driving: 25-35 MPG
+Combined: 20-30 MPG
+Hybrid Petrol Engines:
+
+Fuel consumption for hybrid petrol engines can vary significantly depending on the specific hybrid technology used, driving conditions, and battery charge level. Hybrid vehicles typically have better fuel efficiency than traditional petrol vehicles, especially in city driving conditions.
+Electric (Battery Electric Vehicles, BEVs):
+
+Electric vehicles do not consume traditional fuels like diesel or petrol. Instead, they are powered solely by electricity. The "fuel consumption" for electric vehicles is measured in kilowatt-hours per 100 miles (kWh/100 miles) or similar metrics that indicate energy consumption. The range for electric vehicles depends on the battery capacity and driving conditions.
+
+- calculating fuel consumption using this formula
+  1 mile = 1.60934 kilometers
+  1 gallon = 3.78541 liters
+
+To convert from MPG to km/L, you can use the following formula:
+km/L
+=
+MPG
+×
+1.60934
+3.78541
+km/L=
+3.78541
+MPG×1.60934
+​
